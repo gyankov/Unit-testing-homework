@@ -1,0 +1,9 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\StudentsAndCoursesTests\bin\Debug\StudentsAndCoursesTests.dll
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\StudentsAndCoursesTests\bin\Debug\StudentsAndCoursesTests.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\StudentsAndCoursesTests\bin\Debug\nunit.framework.dll
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\StudentsAndCoursesTests\bin\Debug\StudentsAndCourses.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\StudentsAndCoursesTests\bin\Debug\StudentsAndCourses.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\StudentsAndCoursesTests\bin\Debug\nunit.framework.xml
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\StudentsAndCoursesTests\obj\Debug\StudentsAndCoursesTests.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\StudentsAndCoursesTests\obj\Debug\StudentsAndCoursesTests.dll
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\StudentsAndCoursesTests\obj\Debug\StudentsAndCoursesTests.pdb

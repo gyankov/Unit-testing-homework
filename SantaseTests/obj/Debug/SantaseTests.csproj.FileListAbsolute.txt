@@ -1,0 +1,9 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\SantaseTests\bin\Debug\SantaseTests.dll
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\SantaseTests\bin\Debug\SantaseTests.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\SantaseTests\bin\Debug\nunit.framework.dll
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\SantaseTests\bin\Debug\Santase.Logic.dll
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\SantaseTests\bin\Debug\Santase.Logic.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\SantaseTests\bin\Debug\nunit.framework.xml
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\SantaseTests\obj\Debug\SantaseTests.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\SantaseTests\obj\Debug\SantaseTests.dll
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\SantaseTests\obj\Debug\SantaseTests.pdb

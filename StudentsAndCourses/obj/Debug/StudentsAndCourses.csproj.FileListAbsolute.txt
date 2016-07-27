@@ -1,0 +1,8 @@
+c:\users\georgi\documents\visual studio 2015\Projects\UnitTestingHomework\StudentsAndCourses\bin\Debug\StudentsAndCourses.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\StudentsAndCourses\bin\Debug\StudentsAndCourses.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\StudentsAndCourses\bin\Debug\StudentsAndCourses.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\StudentsAndCourses\bin\Debug\nunit.framework.dll
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\StudentsAndCourses\bin\Debug\nunit.framework.xml
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\StudentsAndCourses\obj\Debug\StudentsAndCourses.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\StudentsAndCourses\obj\Debug\StudentsAndCourses.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\UnitTestingHomework\StudentsAndCourses\obj\Debug\StudentsAndCourses.csprojResolveAssemblyReference.cache
